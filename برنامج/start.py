@@ -81,8 +81,8 @@ async def start_(client: Client, message: Message):
                     ),
                     InlineKeyboardButton(
                         "‹قناة البوت›", url=f"https://t.me/{UPDATES_CHANNEL}"
-                    ),
-                ],
+                    ),  "‹بوت زخرفة›", @T_L_UBot 
+                ]
                 [
                     InlineKeyboardButton(
                         "تم تطوير البوت بواسطة", url="https://t.me/N_J_9"
